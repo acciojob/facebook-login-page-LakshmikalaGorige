@@ -21,8 +21,11 @@
 	background-color:white;
 	gap:10px;
 }
-.right a{
-	text-decoration:none;
+.right p{
+   color:blue;
+}
+.line{
+	background-color:lightgray;
 }
 .email{
 	border-radius:5px;
